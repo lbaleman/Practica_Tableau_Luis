@@ -1,0 +1,12 @@
+Buenas,
+
+He ideado este Dashboard para poder ver tanto la disponibilidad como el precio de las propiedades por su tipo y su zipcode.
+
+Se puede filtrar tanto por zipcode como por tipo de propiedad, de esta manera podras ver por zona que propiedad es la que mas se alquila, 
+cuanto es su precio y las reviews que tiene, porque he añadido un tooltip al mapa que tiene dicha informacion.
+
+Tambien tiene un filtro para todo el dashboard del precio, para poder quitar de esa manera precios muy caros y trabajar con datos mas normalizados.
+
+Al igual que para el Top N por tipo de propriedad, donde introduciendo el numero de variables a ver te muestra el top y el bottom.
+
+
